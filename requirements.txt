@@ -1,0 +1,6 @@
+torch
+transformers
+streamlit
+torchvision
+Pillow
+prometheus_client
